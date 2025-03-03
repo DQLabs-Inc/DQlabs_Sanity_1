@@ -1,0 +1,14 @@
+[
+    {
+        "username": "admin@dqlabs.ai",
+        "password": "DQl@bs@dm1n"
+    },
+    {
+        "username": "wrong@dqlabs.ai",
+        "password": "DQl@bs@dm1n"
+    },
+        {
+        "username": "admin@dqlabs.ai",
+        "password": "wrongpass"
+    }
+]

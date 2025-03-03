@@ -1,0 +1,21 @@
+{
+  "login": {
+    "username": "admin@dqlabs.ai",
+    "password": "DQl@bs@dm1n"
+  },
+  "source_connection": {
+    "connection_name": "texssbvsoohq",
+    "server": "198.37.101.135",
+    "database": "dqlabs",
+    "username": "dqlabs",
+    "port": "1433",
+    "password": "Intellectyx@123",
+    "schema": "CoustomerAI"
+  },
+  "asset": {
+    "name": "customer"
+  },
+  "schedule": {
+    "name": "demo"
+  }
+}
